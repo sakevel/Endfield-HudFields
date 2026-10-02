@@ -1,0 +1,4 @@
+{
+  "id": "hud-fields",
+  "files": ["HudFields.dll", "mod.ini", "config.ini", "hud-fields.lua", "icon.png"]
+}
